@@ -1,6 +1,6 @@
 # Project BitFit 
  
-# Android Project 5 - *BitFit Part 1*
+# Android Project 5 - *BitFit*
 
 Submitted by: **Kenneth Burwell-Tibbs**
 
